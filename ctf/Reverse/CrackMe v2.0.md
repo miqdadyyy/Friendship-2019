@@ -6,10 +6,10 @@ Ibu Susi Pujiastuti sedang membuat mega proyek bernama fungsi laut dan ikan bagi
 [funct64](../assets/soal/funct64)
 
 ### Langkah - langkah
-1. Kita check file dan memiliki extensi ELF64 eksekusi untuk linux, setelah itu lakukan strings dan grep flag ternyata tidak dapat apa2 :( .  
+1. Kita check file dan memiliki extensi ELF64 eksekusi untuk linux, setelah itu lakukan strings dan grep flag ternyata tidak dapat apa2
   ![](../assets/CrackMe v2.0_step_1.png)
 2. Kita coba untuk run, tetapi meminta sebuah string password saat eksekusi lalu muncul response TRY HARDER
-3. Saat dicoba ltrace ternyata langsung keluar :)
+3. Saat dicoba ltrace ternyata langsung keluar
 
 ![](../assets/CrackMe v2.0.png)
 
